@@ -1,0 +1,14 @@
+Player 1
+- O B - -
+O - X - -
+- B - O -
+- - - B O
+- - - - B
+Player 2
+- - - B -
+- - B - O
+B O - - -
+- - O X -
+- - - - B
+p1:1
+p2:1
